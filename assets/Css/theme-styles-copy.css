@@ -1,0 +1,76 @@
+:root {
+  /* 💠 Accent Colors */
+  --accent: #6c5ce7;
+  --accent-light: #a29bfe; /* Softer purple*/
+  --accent-pink: #fd79a8; /* For energy, romance*/
+  --accent-teal: #00b894; /* For focus, calm*/
+  --accent-yellow: #fdcb6e; /* For warmth*/
+
+  /* 🖋️ Text */
+  --text: #f8f9fa; /* Primary text*/
+  --text-muted: #b2bec3; /* Secondary text*/
+  --text-inverse: #ffffff; /* On dark/colored backgrounds*/
+
+  /* 🎨 Backgrounds */
+  --bg: #121212; /* Main background*/
+  --bg-surface: #1e1e1e; /* Cards, player */
+  --bg-elevated: #252525; /* Elevated elements*/
+  --bg-overlay: rgba(0, 0, 0, 0.8); /* Modal overlay*/
+
+  /* 🔲 UI Elements */
+  --border: #333333; /*Soft border*/
+  --border-light: #444444; /* Lighter border*/
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-light: 0 2px 6px rgba(0, 0, 0, 0.2);
+
+  /* 🎚️ Player & Controls */
+  --player-bg: #252525; /* Bottom player bar*/
+  --progress-track: #333333;
+  --progress-fill: var(--accent);
+  --volume-track: #333333;
+  --volume-fill: var(--accent-light);
+
+   /* 🌈 Playlist Accents (optional, for special sections) */
+  --playlist-chill: #6c5ce7;
+  --playlist-energy: #e17055;
+  --playlist-focus: #00b894;
+  --playlist-sleep: #55efc4;
+  --playlist-romance: #fd79a8;
+
+   /* 🌀 Transitions (for smooth UX) */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+
+   /* 📏 Spacing base (use multiples: 4px, 8px, 12px, etc.) */
+  --space-unit: 4px;
+}
+
+ /* Optional: Light mode (add [data-theme="light"] to <html> to enable) */
+[data-theme="light"] {
+  --accent: #6c5ce7;
+  --accent-light: #a29bfe;
+  --accent-pink: #fd79a8;
+  --accent-teal: #00b894;
+  --accent-yellow: #fdcb6e;
+
+  --text: #1a1a1a;
+  --text-muted: #636e72;
+  --text-inverse: #ffffff;
+
+  --bg: #f8f9fa;
+  --bg-surface: #ffffff;
+  --bg-elevated: #f0f0f0;
+  --bg-overlay: rgba(0, 0, 0, 0.7);
+
+  --border: #e0e0e0;
+  --border-light: #cccccc;
+  --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-light: 0 2px 6px rgba(0, 0, 0, 0.05);
+
+  --player-bg: #f0f0f0;
+  --progress-track: #e0e0e0;
+  --progress-fill: var(--accent);
+  --volume-track: #e0e0e0;
+  --volume-fill: var(--accent-light);
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Ali zand vakili",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Ali zand vakili/ali-zank-vakili (1).jpg",
+    "images": [
+      "/assets/images/Artists photo/Ali zand vakili/ali-zank-vakili (1).jpg",
+      "/assets/images/Artists photo/Ali zand vakili/ali-zank-vakili (2).jpg",
+      "/assets/images/Artists photo/Ali zand vakili/ali-zank-vakili (1).webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alireza Ghorbani",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Alireza ghorbani/alireza-ghorbani (2).jpg",
+    "images": [
+      "/assets/images/Artists photo/Alireza ghorbani/alireza-ghorbani (1).jpeg",
+      "/assets/images/Artists photo/Alireza ghorbani/alireza-ghorbani (1).jpg",
+      "/assets/images/Artists photo/Alireza ghorbani/alireza-ghorbani (2).jpg",
+      "/assets/images/Artists photo/Alireza ghorbani/alireza-ghorbani (3).jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Behnam Bani",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/behnam bani/behnam-bani (2).jpg",
+    "images": [
+      "/assets/images/Artists photo/behnam bani/behnam-bani (1).jpeg",
+      "/assets/images/Artists photo/behnam bani/behnam-bani (1).jpg",
+      "/assets/images/Artists photo/behnam bani/behnam-bani (2).jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ehsan khaje amiri",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Ehsan Khaje amiri/ehsan-khaje-amiri (2).jpg",
+    "images": [
+      "/assets/images/Artists photo/Ehsan Khaje amiri/ehsan-khaje-amiri (1).jpg",
+      "/assets/images/Artists photo/Ehsan Khaje amiri/ehsan-khaje-amiri (2).jpg",
+      "/assets/images/Artists photo/Ehsan Khaje amiri/ehsan-khaje-amiri (3).jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Garsha Rezaie",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Garsha Rezaie/garsh-rezaie.jpeg",
+    "images": [
+      "/assets/images/Artists photo/Garsha Rezaie/garsh-rezaie.jpeg",
+      "/assets/images/Artists photo/Garsha Rezaie/garsh-rezaie.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mohammad Alizadeh",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mohammad Alizadeh/mohammad-alizadeh (1).jpg",
+    "images": [
+      "/assets/images/Artists photo/Mohammad Alizadeh/mohammad-alizadeh (1).webp",
+      "/assets/images/Artists photo/Mohammad Alizadeh/mohammad-alizadeh (1).jpg",
+      "/assets/images/Artists photo/Mohammad Alizadeh/mohammad-alizadeh (2).jpg",
+      "/assets/images/Artists photo/Mohammad Alizadeh/mohammad-alizadeh (3).jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mohammad Esfahani",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mohammad Esfahani/mohammad-esfahani (1).jpg",
+    "images": [
+      "/assets/images/Artists photo/Mohammad Esfahani/mohammad-esfahani (1).jpg",
+      "/assets/images/Artists photo/Mohammad Esfahani/mohammad-esfahani (2).jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mohsen Chavoshi",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mohsen Chavoshi/mohsen-chavoshi (1).jpeg",
+    "images": [
+      "/assets/images/Artists photo/Mohsen Chavoshi/mohsen-chavoshi (1).jpeg",
+      "/assets/images/Artists photo/Mohsen Chavoshi/mohsen-chavoshi (1).webp",
+      "/assets/images/Artists photo/Mohsen Chavoshi/mohsen-chavoshi (1).jpg",
+      "/assets/images/Artists photo/Mohsen Chavoshi/mohsen-chavoshi (2).jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mostafa Ragheb",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mostafa Ragheb/mostafa-ragheb (1).jpg",
+    "images": [
+      "/assets/images/Artists photo/Mostafa Ragheb/mostafa-ragheb (1).webp",
+      "/assets/images/Artists photo/Mostafa Ragheb/mostafa-ragheb (1).jpg",
+      "/assets/images/Artists photo/Mostafa Ragheb/mostafa-ragheb (2).jpg",
+      "/assets/images/Artists photo/Mostafa Ragheb/mostafa-ragheb (3).jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Reza Sadeghi",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (2).jpg",
+    "images": [
+      "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (1).jpg",
+      "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (2).jpg",
+      "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (3).jpg"
+    ]
+  }
+]

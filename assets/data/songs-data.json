@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "title": "Lalaei",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/Ali Zand Vakili - Lalaei 128 (UpMusic)~1.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/ali-zand-vakili-lalaei.jpg",
+    "duration": "4:08"
+  },
+  {
+    "id": 2,
+    "title": "Vatan",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/Ali ZandeVakili - Vatan.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/Ali-Zand-Vakili-Vatan.jpg",
+    "duration": "3:03"
+  },
+  {
+    "id": 3,
+    "title": "Ghamgin Tarin Ahang REMIX",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/ALI ZANDEVAKILI_AHANGE GHAMGIN  REMIX.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/Ali-Zand-Vakili-Ghamgintarin-Ahang-Remix.jpg",
+    "duration": "4:02"
+  },
+  {
+    "id": 4,
+    "title": "Ghamgin Tarin Ahang",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/Ali Zandvakili - Ghamgin Tarin Ahang.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/Ali-Zand-Vakili-Ghamgintarin-Ahang.jpg",
+    "duration": "4:25"
+  },
+  {
+    "id": 5,
+    "title": "Karevaan",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/Ali ZandVakili - Karevaan.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/Ali-Zand-Vakili-Karevan.jpg",
+    "duration": "4:42"
+  },
+  {
+    "id": 6,
+    "title": "Rahaee",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/Rahaee - Ali Zandvakili.mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/Ali-Zand-Vakili-Rahaee.jpg",
+    "duration": "3:18"
+  },
+  {
+    "id": 7,
+    "title": "bargard",
+    "artistId": 1,
+    "url": "/assets/songs/Ali Zand vakili/zand-vakili-bargard-asheghtarin(128).mp3",
+    "cover": "/assets/images/music cover/Ali zand vakili/ali-zand-vakili-akharin-roya.jpg",
+    "duration": "3:13"
+  },
+
+
+
+
+
+  {
+    "id": 30,
+    "title": "Asheghane Nist",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Asheghane Nist.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/Alireza-Ghorbani-Asheghane-Nist.jpg",
+    "duration": "4:33"
+  },
+  {
+    "id": 31,
+    "title": "Bi Gonah",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Bi Gonah.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/bi-gonah.webp",
+    "duration": "3:56"
+  },
+  {
+    "id": 32,
+    "title": "Ham Gonah",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Ham Gonah.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/Alireza-Ghorbani-Ham-Gonah.jpg",
+    "duration": "4:00"
+  },
+  {
+    "id": 33,
+    "title": "Maste Eshgh",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Maste Eshgh.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/Alireza-Ghorbani-Maste-Eshgh.jpg",
+    "duration": "4:11"
+  },
+  {
+    "id": 34,
+    "title": "Parvaze Ghooha",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Parvaze Ghooha.mp3.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/Alireza-Ghorbani-Parvaze-Ghooha.jpg",
+    "duration": "3:30"
+  },
+  {
+    "id": 35,
+    "title": "Roozhaye Bi Gharar",
+    "artistId": 2,
+    "url": "/assets/songs/ALireza Ghorbani/Alireza Ghorbani - Roozhaye Bi Gharar.mp3",
+    "cover": "/assets/images/music cover/Alireza ghorbani/Alireza-Ghorbani-Roozhaye-Bi-Gharar.jpg",
+    "duration": "5:02"
+  },
+
+
+
+
+
+
+  {
+    "id": 100,
+    "title": "Ashegham Karde",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/_Behnam Bani - Ashegham Karde (128).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/photo_2017-03-11_16-22-39-500x500.jpg",
+    "duration": "3:28"
+  },
+  {
+    "id": 101,
+    "title": "Ey Kash",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Ey Kash12 (UpMusic).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/Behnam-Bani-Ey-Kash.jpg",
+    "duration": "4:52"
+  },
+  {
+    "id": 102,
+    "title": "Eyd Mobarak",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Eyd Mobarak128 (UpMusic).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/1MF0l6cC-t.jpg",
+    "duration": "2:34"
+  },
+  {
+    "id": 103,
+    "title": "Faghat Boro",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Faghat Boro (128).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/Behnam-Bani-Faghat-Boro.jpg",
+    "duration": "3:51"
+  },
+  {
+    "id": 104,
+    "title": "Kojaye In Shahri",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Kojaye In Shahri (128).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/Behnam-Bani-Kojaye-In-Shahri.jpg",
+    "duration": "2:49"
+  },
+  {
+    "id": 105,
+    "title": "Mahe Asal",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Mahe Asal 97 (128)_1.mp3",
+    "cover": "/assets/images/music cover/Behnam bani/Behnam-Bani-Mahe-Asal-97-1.jpg",
+    "duration": "3:41"
+  },
+
+
+
+
+
+
+
+  {
+    "id": 150,
+    "title": "Baroon Khiabonaro Mibande",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/01 - Ehsan Khajeh Amiri - Baroon Khiabonaro Mibande (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan-Khajeh-Amiri-Baroon-Khiabonaro-Mibandeh-New-Version.jpg",
+    "duration": "3:39"
+  },
+  {
+    "id": 151,
+    "title": "Naborde Ranj",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan Khaje Amir - Naborde Ranj (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan Khajeh Amiri - Naaborde Ranj.jpg",
+    "duration": "3:21"
+  },
+  {
+    "id": 152,
+    "title": "Bavar Nemikonam",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan khajeh amiri _ Bavar Nemikonam (320).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/06_Bavar-Nemikonam_EH.jpg",
+    "duration": "3:28"
+  },
+  {
+    "id": 153,
+    "title": "Darde Amigh",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan Khajeh Amiri - Darde Amigh (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan-Khajeh-Amiri-Darde-Amigh.jpg",
+    "duration": "3:33"
+  },
+  {
+    "id": 154,
+    "title": "Salame Akhar",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan Khajeh Amiri - Salame Akhar (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan-Khajeh-Amiri-Salame-Akhar.jpg",
+    "duration": "6:11"
+  },
+  {
+    "id": 155,
+    "title": "Second",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan Khajeh Amiri - Second (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan-Khajeh-Amiri-Second.jpg",
+    "duration": "3:11"
+  },
+  {
+    "id": 156,
+    "title": "Taavaan",
+    "artistId": 4,
+    "url": "/assets/songs/Ehsan Khaje amiri/Ehsan Khajeh Amiri - Taavaan (128).mp3",
+    "cover": "/assets/images/music cover/Ehsan khaje amiri/Ehsan-Khaje-Amiri-Taavaan.jpg",
+    "duration": "3:27"
+  },
+
+
+
+
+
+  {
+    "id": 200,
+    "title": "Akhare Donya",
+    "artistId": 5,
+    "url": "/assets/songs/Garsha Rezaie/Garsha Rezaei - Akhare Donya [128].mp3",
+    "cover": "/assets/images/music cover/Garsh rezaie/Garsha-Rezaei-Akhare-Donya.jpg",
+    "duration": "2:55"
+  },
+  {
+    "id": 201,
+    "title": "Darya Darya",
+    "artistId": 5,
+    "url": "/assets/songs/Garsha Rezaie/Garsha Rezaei - Darya Darya [128].mp3",
+    "cover": "/assets/images/music cover/Garsh rezaie/Garsha-Rezaei-Darya-Darya.jpg",
+    "duration": "2:47"
+  },
+  {
+    "id": 202,
+    "title": "Yar Bash",
+    "artistId": 5,
+    "url": "/assets/songs/Garsha Rezaie/Garsha Rezaei - Yar Bash (128).mp3",
+    "cover": "/assets/images/music cover/Garsh rezaie/Garsha-Rezaei-Yar-Bash.jpg",
+    "duration": "3:18"
+  },
+
+
+
+
+
+
+  {
+    "id": 250,
+    "title": "To Beri Baroon",
+    "artistId": 6,
+    "url": "/assets/songs/Mohammad Alizadeh/Mohamad Alizadeh - To Beri Baroon.mp3",
+    "cover": "/assets/images/music cover/Mohammad alizadeh/Mohammad-Alizadeh-To-Beri-Baroon-1.jpg",
+    "duration": "3:19"
+  },
+  {
+    "id": 251,
+    "title": "Gol",
+    "artistId": 6,
+    "url": "/assets/songs/Mohammad Alizadeh/Mohammad Alizadeh _ Gol (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad alizadeh/Mohammad-Alizadeh-Gol-New-Version.jpg",
+    "duration": "3:12"
+  },
+  {
+    "id": 252,
+    "title": "Baroone Nam Nam",
+    "artistId": 6,
+    "url": "/assets/songs/Mohammad Alizadeh/Mohammad Alizadeh - Baroone Nam Nam (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad alizadeh/Mohammad-Alizadeh-Baroone-Nam-Nam.jpg",
+    "duration": "4:12"
+  },
+  {
+    "id": 253,
+    "title": "Lotfan",
+    "artistId": 6,
+    "url": "/assets/songs/Mohammad Alizadeh/Mohammad Alizadeh - Lotfan (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad alizadeh/Mohammad-Alizadeh-Lotfan.jpg",
+    "duration": "3:54"
+  },
+  {
+    "id": 254,
+    "title": "Taje Sar",
+    "artistId": 6,
+    "url": "/assets/songs/Mohammad Alizadeh/Mohammad Alizadeh - Taje Sar (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad alizadeh/Mohammad-Alizadeh-Taje-Sar.jpg",
+    "duration": "3:03"
+  },
+
+
+
+
+
+  {
+    "id": 300,
+    "title": "Deltangi",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani _ Deltangi (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad-Esfahani-Deltangi.jpg",
+    "duration": "4:12"
+  },
+  {
+    "id": 301,
+    "title": "Beman Ba Man",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani - Beman Ba Man (320).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad-Esfahani-Beman-Ba-Man.jpg",
+    "duration": "4:21"
+  },
+  {
+    "id": 302,
+    "title": "Dar Havayat",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani - Dar Havayat (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad20Esfahani20-20Dar20Havayat.jpg",
+    "duration": "3:57"
+  },
+  {
+    "id": 303,
+    "title": "Faryad Ras",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani - Faryad Ras (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad-Esfahani-Faryad-Ras.jpg",
+    "duration": "3:26"
+  },
+  {
+    "id": 304,
+    "title": "Marde Noghrei",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani - Marde Noghrei (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad-Esfahani-Marde-Noghrei.jpg",
+    "duration": "4:11"
+  },
+  {
+    "id": 305,
+    "title": "Panahe Tanhaeie Man",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfahani - Panahe Tanhaeie Man (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Mohammad-Esfahani-Panahe-Tanhaeie-Man.jpg",
+    "duration": "3:27"
+  },
+  {
+    "id": 306,
+    "title": "Maro Ey Doost",
+    "artistId": 7,
+    "url": "/assets/songs/Mohammad Esfahani/Mohammad Esfehani - Maro Ey Doost (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad esfahani/Cover.jpg",
+    "duration": "8:04"
+  },
+
+
+  
+
+
+
+  {
+    "id": 350,
+    "title": "Ey Asheghan",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/08 - Ey Asheghan.mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/3662895948.jpg",
+    "duration": "4:34"
+  },
+  {
+    "id": 351,
+    "title": "Alaj",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Alaj (320).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Alaj.jpg",
+    "duration": "5:15"
+  },
+  {
+    "id": 352,
+    "title": "Ali",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Ali (128).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Ali.jpg",
+    "duration": "4:29"
+  },
+  {
+    "id": 353,
+    "title": "Avaze Khoon",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Avaze Khoon (320).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Avaze-Khoon.jpg",
+    "duration": "4:25"
+  },
+  {
+    "id": 354,
+    "title": "JorChin",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - JorChin (128).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Joor-Chin.jpg",
+    "duration": "4:32"
+  },
+  {
+    "id": 355,
+    "title": "Kojaei",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Kojaei (128).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Sina-Sarlak-Kojaei.jpg",
+    "duration": "3:48"
+  },
+  {
+    "id": 356,
+    "title": "Koocheye Akhar",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Koocheye Akhar (320).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Koocheye-Akhar.jpg",
+    "duration": "5:06"
+  },
+  {
+    "id": 357,
+    "title": "Nafas",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Nafas.mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Nafas.jpg",
+    "duration": "3:30"
+  },
+  {
+    "id": 358,
+    "title": "Parishan",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Parishan (128).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/parishan.webp",
+    "duration": "3:00"
+  },
+  {
+    "id": 359,
+    "title": "Tekyeh Koochik",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Tekyeh Koochik.mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/Mohsen-Chavoshi-Tekyeye-Koochik.jpg",
+    "duration": "4:15"
+  },
+  {
+    "id": 360,
+    "title": "Zendan",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi - Zendan (128).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/photo_2017-02-26_23-23-49-500x500.jpg",
+    "duration": "3:52"
+  },
+  {
+    "id": 361,
+    "title": "Hamkhab",
+    "artistId": 8,
+    "url": "/assets/songs/Mohsen Chavoshi/Mohsen Chavoshi Hamkhab (2).mp3",
+    "cover": "/assets/images/music cover/Mohsen chavoshi/mohsen-chavoshi-hamkhaab.jpg",
+    "duration": "3:01"
+  },
+
+
+
+
+
+
+
+  {
+    "id": 400,
+    "title": "Tanhaeiye Ye Mard",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/7 Ragheb - Tanhaeiye Ye Mard (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Tanhaei-Ye-Mard-.jpg",
+    "duration": "3:13"
+  },
+  {
+    "id": 401,
+    "title": "Sedaye Baran",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb _ Sedaye Baran (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Sedaye-Baran.jpg",
+    "duration": "3:27"
+  },
+  {
+    "id": 402,
+    "title": "Elahi",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Elahi.mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Elahi.jpg",
+    "duration": "2:27"
+  },
+  {
+    "id": 403,
+    "title": "Gole Sefid Arezoo",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Gole Sefid Arezoo (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Gole-Sefid-Arezo.jpg",
+    "duration": "2:37"
+  },
+  {
+    "id": 404,
+    "title": "Havaye Eshgh",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Havaye Eshgh (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Havaye-Eshgh.jpg",
+    "duration": "2:37"
+  },
+  {
+    "id": 405,
+    "title": "Mawjou Ghalbi",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Mawjou Ghalbi (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Mawjou-Ghalbi.jpg",
+    "duration": "2:51"
+  },
+  {
+    "id": 406,
+    "title": "Roozhaye Khoob",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Roozhaye Khoob (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-Roozhaye-Khoob.jpg",
+    "duration": "2:55"
+  },
+  {
+    "id": 407,
+    "title": "Samimitarin Rafigh",
+    "artistId": 9,
+    "url": "/assets/songs/Mostafa Ragheb/Ragheb - Samimitarin Rafigh (128).mp3",
+    "cover": "/assets/images/music cover/Mostafa ragheb/Ragheb-SamimiTarin-Rafigh.jpg",
+    "duration": "2:58"
+  },
+
+
+
+
+
+
+  {
+    "id": 450,
+    "title": "To Ke Hassasi",
+    "artistId": 10,
+    "url": "/assets/songs/Reza Sadeghi/Babak Jahanbakhsh & Reza Sadeghi - To Ke Hassasi.mp3",
+    "cover": "/assets/images/music cover/Reza sadeghi/Babak-Jahanbakhsh-Reza-Sadeghi-To-Ke-Hassasi.jpg",
+    "duration": "3:27"
+  },
+  {
+    "id": 451,
+    "title": "Hale Khoob",
+    "artistId": 10,
+    "url": "/assets/songs/Reza Sadeghi/Reza Sadeghi - Hale Khoob128.mp3",
+    "cover": "/assets/images/music cover/Reza sadeghi/Reza-Sadeghi-Hale-Khoob.jpg",
+    "duration": "3:43"
+  },
+  {
+    "id": 452,
+    "title": "Paeize Jari",
+    "artistId": 10,
+    "url": "/assets/songs/Reza Sadeghi/Reza Sadeghi -Paeize Jari128.mp3",
+    "cover": "/assets/images/music cover/Reza sadeghi/Reza-Sadeghi-Paeize-Jari.jpg",
+    "duration": "3:54"
+  },
+  {
+    "id": 453,
+    "title": "Refigh Ghadimi",
+    "artistId": 10,
+    "url": "/assets/songs/Reza Sadeghi/Reza Sadeghi - Refigh Ghadimi.mp3",
+    "cover": "/assets/images/music cover/Reza sadeghi/Reza-Sadeghi-Refigh-Ghadimi.jpg",
+    "duration": "4:54"
+  }
+]
