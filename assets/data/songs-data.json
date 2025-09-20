@@ -162,6 +162,14 @@
     "cover": "/assets/images/music cover/Behnam bani/Behnam-Bani-Mahe-Asal-97-1.jpg",
     "duration": "3:41"
   },
+  {
+    "id": 106,
+    "title": "Behnam Bani - Setareh Mishi",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Setareh Mishi.mp3",
+    "cover": "/assets/images/music cover/Behnam bani/setareh mishi.jpg",
+    "duration": "3:41"
+  },
 
 
 
@@ -571,5 +579,72 @@
     "url": "/assets/songs/Reza Sadeghi/Reza Sadeghi - Refigh Ghadimi.mp3",
     "cover": "/assets/images/music cover/Reza sadeghi/Reza-Sadeghi-Refigh-Ghadimi.jpg",
     "duration": "4:54"
+  },
+
+
+
+
+
+
+
+  {
+    "id": 500,
+    "title": "Bavar Nemikoni",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Bavar Nemikoni (320).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/Mohammad-Motamedi-Bavar-Nemikoni.jpg",
+    "duration": "3:30"
+  },
+  {
+    "id": 501,
+    "title": "Hala Ke Miravi",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Hala Ke Miravi (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/Mohammad-Motamedi-Hala-Ke-Miravi.jpg",
+    "duration": "3:49"
+  },
+  {
+    "id": 502,
+    "title": "Iranam",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Iranam (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/Mohammad-Motamedi-Iranam.jpg",
+    "duration": "2:46"
+  },
+  {
+    "id": 503,
+    "title": "Jane Iran",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Jane Iran (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/Mohammad-Motamedi-Jane-Iran.jpg",
+    "duration": "3:06"
+  },
+  {
+    "id": 504,
+    "title": "Sepide",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Sepide.mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/MohammadMotamedi-HamraheNasim-480x480.jpg",
+    "duration": "4:31"
+  },
+  {
+    "id": 505,
+    "title": "Ta Aseman",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motamedi - Ta Aseman (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/Mohammad-Motamedi-Ta-Aseman.jpg",
+    "duration": "3:30"
+  },
+  {
+    "id": 506,
+    "title": "Mozhde Baran",
+    "artistId": 11,
+    "url": "/assets/songs/Mohammad motamedi/Mohammad Motammedi - Mozhde Baran (128).mp3",
+    "cover": "/assets/images/music cover/Mohammad motamedi/mozhdeh baran.jpg",
+    "duration": "3:40"
   }
+
+
+
+
 ]

@@ -110,5 +110,14 @@
       "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (2).jpg",
       "/assets/images/Artists photo/Reza Sadeghi/reza-sadeghi (3).jpg"
     ]
+  },
+  {
+    "id": 11,
+    "name": "Mohammad Motamedi",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mohammad motamedi/motamedi.jpg",
+    "images": [
+      "/assets/images/Artists photo/Mohammad motamedi/motamedi.jpg"
+    ]
   }
 ]
