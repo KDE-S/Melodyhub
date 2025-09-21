@@ -642,7 +642,69 @@
     "url": "/assets/songs/Mohammad motamedi/Mohammad Motammedi - Mozhde Baran (128).mp3",
     "cover": "/assets/images/music cover/Mohammad motamedi/mozhdeh baran.jpg",
     "duration": "3:40"
-  }
+  },
+
+
+
+
+
+
+  {
+    "id": 500,
+    "title": "Age Bad Shod",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei _ Age Bad Shod (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/awrsd-2.jpg",
+    "duration": "3:51"
+  },
+  {
+    "id": 501,
+    "title": "Ay Darya",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Ay Darya (320).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/photo_2025-03-28_13-15-39_Musics.webp",
+    "duration": "3:26"
+  },
+  {
+    "id": 502,
+    "title": "Az Man Chera Ranjidei",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Az Man Chera Ranjidei (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/Mehdi-Yaghmaei-Az-Man-Chera-Ranjidei.jpg",
+    "duration": "3:04"
+  },
+  {
+    "id": 503,
+    "title": "Digari",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Digari (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/Mehdi-Yaghmaei-Digari.jpg",
+    "duration": "3:40"
+  },
+  {
+    "id": 504,
+    "title": "Hess Mikonam Toro",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Hess Mikonam Toro (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/Mehdi-Yaghmaei-Hess-Mikonam-Toro.jpg",
+    "duration": "2:59"
+  },
+  {
+    "id": 505,
+    "title": "Negara",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Negara (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/Mehdi-Yaghmaei-Negara.jpg",
+    "duration": "3:22"
+  },
+  {
+    "id": 507,
+    "title": "Vaala Mohammad",
+    "artistId": 12,
+    "url": "/assets/songs/Mahdi yaghmaie/Mehdi Yaghmaei - Vaala Mohammad (128).mp3",
+    "cover": "/assets/images/music cover/Mahdi yaghmaie/Mehdi-Yaghmaei-Vaala-Mohammad.jpg",
+    "duration": "3:02"
+  },
 
 
 

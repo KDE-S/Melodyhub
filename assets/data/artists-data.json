@@ -119,5 +119,14 @@
     "images": [
       "/assets/images/Artists photo/Mohammad motamedi/motamedi.jpg"
     ]
+  },
+  {
+    "id": 12,
+    "name": "Mahdi Yaghmaie",
+    "bio": "",
+    "coverImage": "/assets/images/Artists photo/Mahdi yaghmaie/b3cad864-5351-4b0f-94fd-374445edfa53.jpeg",
+    "images": [
+      "/assets/images/Artists photo/Mahdi yaghmaie/b3cad864-5351-4b0f-94fd-374445edfa53.jpeg"
+    ]
   }
 ]
