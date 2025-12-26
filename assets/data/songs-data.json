@@ -164,11 +164,19 @@
   },
   {
     "id": 106,
-    "title": "Behnam Bani - Setareh Mishi",
+    "title": "Setareh Mishi",
     "artistId": 3,
     "url": "/assets/songs/Behnam bani/Behnam Bani - Setareh Mishi.mp3",
     "cover": "/assets/images/music cover/Behnam bani/setareh mishi.jpg",
-    "duration": "3:41"
+    "duration": "4:02"
+  },
+  {
+    "id": 107,
+    "title": "Kojaye In Shahri (Live Concert)",
+    "artistId": 3,
+    "url": "/assets/songs/Behnam bani/Behnam Bani - Kojaye In Shahri (Live).mp3",
+    "cover": "/assets/images/music cover/Behnam bani/kojaye-in-shahri-live.png",
+    "duration": "4:14"
   },
 
 
